@@ -1,6 +1,6 @@
 ---
 templateKey: index-page
-title: Great coffee with a conscience
+title: This is the H1
 image: /img/home-jumbotron.jpg
 heading: Headline
 subheading: This is the subhead
