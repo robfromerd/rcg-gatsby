@@ -3,7 +3,7 @@ templateKey: index-page
 title: This is the H1 Again
 image: /img/home-jumbotron.jpg
 heading: Headline
-subheading: This is the subhead
+subheading: This is the subhead changed
 mainpitch:
   title: Why Kaldi
   description: >
