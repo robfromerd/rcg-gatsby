@@ -1,7 +1,7 @@
 ---
 templateKey: index-page
 title: This is the H1 Again
-image: /img/home-jumbotron.jpg
+image: /img/chemex.jpg
 heading: Headline
 subheading: This is the subhead changed
 mainpitch:
